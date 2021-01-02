@@ -13,6 +13,9 @@ public class Person {
         this.firstName = firstName;
         this.lastName = lastName;
     }
+    public void show(){
+    	system.out.println("test");
+    }
     public void m1(){
     }
 }
