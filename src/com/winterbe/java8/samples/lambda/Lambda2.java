@@ -42,6 +42,6 @@ public class Lambda2 {
         // constructor reference
 
         PersonFactory<Person> personFactory = Person::new;
-        Person person = personFactory.create("Peter", "Parker");
+        Person person = personFactory.create("Peter", "Parker");// added test comment new
     }
 }
