@@ -39,7 +39,7 @@ public class Lambda2 {
         String converted3 = stringConverter.convert("Java");
         System.out.println(converted3);    // result J
 
-        // constructor reference
+        // constructor reference ================>>>>>>>>
 
         PersonFactory<Person> personFactory = Person::new;
         Person person = personFactory.create("Peter", "Parker");// added test comment new
