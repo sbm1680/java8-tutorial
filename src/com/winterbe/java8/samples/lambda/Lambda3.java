@@ -19,7 +19,7 @@ public class Lambda3 {
     @FunctionalInterface
     interface Fun {
         void foo();
-    }
+    }// Added
 
     public static void main(String[] args) throws Exception {
 
