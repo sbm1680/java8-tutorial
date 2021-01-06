@@ -10,7 +10,8 @@ import java.util.Optional;
  * @author Benjamin Winterberg
  */
 public class Lambda1 {
-
+///////////////////////////
+    ////////////////
     public static void main(String[] args) {
         List<String> names = Arrays.asList("peter", "anna", "mike", "xenia");
 
