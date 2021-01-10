@@ -14,7 +14,7 @@ public class Streams9 {
             .filter(s -> s.startsWith("c"))
             .map(String::toUpperCase)
             .sorted()
-            .forEach(System.out::println);
+            .forEach(System.out::println);//cccccccccccccccccc
 
         // C1
         // C2
