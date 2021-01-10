@@ -33,7 +33,7 @@ public class Streams8 {
         Stream.of(1.0, 2.0, 3.0)
             .mapToInt(Double::intValue)
             .mapToObj(i -> "a" + i)
-            .forEach(System.out::println);
+            .forEach(System.out::println);//qqqqqqqqqqqqqqqqqq
 
     }
 }
