@@ -12,7 +12,7 @@ import java.util.Optional;
 public class Lambda1 {
 
 //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-	/////////////////////////////////////
+	/////////////////////////////////////LAMBDA 1
     public static void main(String[] args) {
         List<String> names = Arrays.asList("peter", "anna", "mike", "xenia");
 
