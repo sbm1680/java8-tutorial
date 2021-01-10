@@ -55,7 +55,7 @@ public class Streams7 {
 
         foos.stream()
             .flatMap(f -> f.bars.stream())
-            .forEach(b -> System.out.println(b.name));
+            .forEach(b -> System.out.println(b.name));//uuuuuuuuu
     }
 
 }
